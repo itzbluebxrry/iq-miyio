@@ -8,7 +8,7 @@ This repository was intended for storing stable, beta, debug and test builds of 
 - Learn more about this project at https://home.itzbluebxrry.ml/i-qiraat
 
 ## Screenshots
-![Screenshot_20220717-123651](https://user-images.githubusercontent.com/99461083/183295592-4c0e51c8-3871-4fc6-aa0c-f129f4daf035.png =480x984)
+<img src="https://user-images.githubusercontent.com/99461083/183295592-4c0e51c8-3871-4fc6-aa0c-f129f4daf035.png" width="480" height="984">
 ![Screenshot_20220722-220509](https://user-images.githubusercontent.com/99461083/183295603-a4cb7fb8-e3e0-40c1-a1c0-475a77c5798d.png =480x984)
 ![Screenshot_20220722-220705](https://user-images.githubusercontent.com/99461083/183295608-c202863d-3740-4cde-a5b9-9082fd90cbe1.png =480x984)
 ![Screenshot_20220722-220737](https://user-images.githubusercontent.com/99461083/183295611-18495456-c8fa-40fc-a4f3-18d5e450e253.png =480x984)
